@@ -20,8 +20,9 @@ A simple and elegant **Tic Tac Toe** web game built using **HTML, CSS, and JavaS
 
 ## 🖥️ Preview
 
-![Game Screenshot](https://your-screenshot-link-if-you-have-one.png)
-
+![Game Screenshot](image.png)
+![Game Screenshot](image-1.png)
+![Game Screenshot](image-2.png)
 ---
 
 ## 🛠️ Technologies Used
